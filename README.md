@@ -1,4 +1,3 @@
-# Postprocess Alchemy
 ![postprocess_alchemy_banner](https://user-images.githubusercontent.com/55745404/178143240-b273814f-1aa0-4e97-8e09-4c2ad4321aab.png)
 
 Postprocess Alchemy is my own software developed in Unity. The main point to this project is to show, in a cool and simple way, the postprocessing effect made by myself in ShaderLab using HLSL and Universal Render Pipeline.

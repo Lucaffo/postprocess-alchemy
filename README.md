@@ -4,7 +4,7 @@
 Postprocess Alchemy is a showcase software developed in Unity. The main point to this project is to show, in a cool and simple way, the postprocessing effect i made by in ShaderLab using HLSL and Universal Render Pipeline.
 
 > You can see the effect by yourself downloading the last release of the project!
-> I Want to special mention that the models inside the project is not done by myself, but were made by friend/collegue at The Sign Comics & Arts Academy.
+> I Want to special mention that the models inside the project is not mine, but were made by friend/collegue at The Sign Comics & Arts Academy.
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/55745404/178143325-03d49f5b-3ccd-4168-a3fd-a981c59db5f4.png)
